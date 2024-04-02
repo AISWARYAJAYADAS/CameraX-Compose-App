@@ -48,7 +48,3 @@ Ensure the following permissions are added to your app's manifest file:
 ```xml
 <uses-permission android:name="android.permission.CAMERA"/>
 <uses-permission android:name="android.permission.RECORD_AUDIO"/>
-
-## Requirements
-- Android device running Android 5.0 (API level 21) or higher.
-- Permissions for camera and audio recording.
